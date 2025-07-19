@@ -7,7 +7,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1 - Duplicate Integer", "1 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2 - Valid Anagram", "2 - Valid Anagram\2 - Valid Anagram.vcxproj", "{BFC2A6A4-6AD6-4EF5-8A47-CD3BF80561AC}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3 - Two Sum", "..\3 - Two Sum\3 - Two Sum.vcxproj", "{9A0791B4-6C8C-4D64-92B3-409A8C508032}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3 - Two Sum", "3 - Two Sum\3 - Two Sum.vcxproj", "{9A0791B4-6C8C-4D64-92B3-409A8C508032}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
