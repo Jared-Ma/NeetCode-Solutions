@@ -17,6 +17,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6 - Valid Parentheses", "6 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "7 - Reverse Linked List", "7 - Reverse Linked List\7 - Reverse Linked List.vcxproj", "{5974949D-FF35-41DB-A322-4B62C615439A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "8 - Merge Two Sorted Linked Lists", "8 - Merge Two Sorted Linked Lists\8 - Merge Two Sorted Linked Lists.vcxproj", "{908FE164-0744-401E-B63A-40AC888F9C45}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -81,6 +83,14 @@ Global
 		{5974949D-FF35-41DB-A322-4B62C615439A}.Release|x64.Build.0 = Release|x64
 		{5974949D-FF35-41DB-A322-4B62C615439A}.Release|x86.ActiveCfg = Release|Win32
 		{5974949D-FF35-41DB-A322-4B62C615439A}.Release|x86.Build.0 = Release|Win32
+		{908FE164-0744-401E-B63A-40AC888F9C45}.Debug|x64.ActiveCfg = Debug|x64
+		{908FE164-0744-401E-B63A-40AC888F9C45}.Debug|x64.Build.0 = Debug|x64
+		{908FE164-0744-401E-B63A-40AC888F9C45}.Debug|x86.ActiveCfg = Debug|Win32
+		{908FE164-0744-401E-B63A-40AC888F9C45}.Debug|x86.Build.0 = Debug|Win32
+		{908FE164-0744-401E-B63A-40AC888F9C45}.Release|x64.ActiveCfg = Release|x64
+		{908FE164-0744-401E-B63A-40AC888F9C45}.Release|x64.Build.0 = Release|x64
+		{908FE164-0744-401E-B63A-40AC888F9C45}.Release|x86.ActiveCfg = Release|Win32
+		{908FE164-0744-401E-B63A-40AC888F9C45}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
