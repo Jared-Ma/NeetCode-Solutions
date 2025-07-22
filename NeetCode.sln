@@ -15,6 +15,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "5 - Best Time to Buy and Se
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6 - Valid Parentheses", "6 - Valid Parentheses\6 - Valid Parentheses.vcxproj", "{450556D6-EE2C-45A5-BA44-56EDFFB1807E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "7 - Reverse Linked List", "7 - Reverse Linked List\7 - Reverse Linked List.vcxproj", "{5974949D-FF35-41DB-A322-4B62C615439A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -71,6 +73,14 @@ Global
 		{450556D6-EE2C-45A5-BA44-56EDFFB1807E}.Release|x64.Build.0 = Release|x64
 		{450556D6-EE2C-45A5-BA44-56EDFFB1807E}.Release|x86.ActiveCfg = Release|Win32
 		{450556D6-EE2C-45A5-BA44-56EDFFB1807E}.Release|x86.Build.0 = Release|Win32
+		{5974949D-FF35-41DB-A322-4B62C615439A}.Debug|x64.ActiveCfg = Debug|x64
+		{5974949D-FF35-41DB-A322-4B62C615439A}.Debug|x64.Build.0 = Debug|x64
+		{5974949D-FF35-41DB-A322-4B62C615439A}.Debug|x86.ActiveCfg = Debug|Win32
+		{5974949D-FF35-41DB-A322-4B62C615439A}.Debug|x86.Build.0 = Debug|Win32
+		{5974949D-FF35-41DB-A322-4B62C615439A}.Release|x64.ActiveCfg = Release|x64
+		{5974949D-FF35-41DB-A322-4B62C615439A}.Release|x64.Build.0 = Release|x64
+		{5974949D-FF35-41DB-A322-4B62C615439A}.Release|x86.ActiveCfg = Release|Win32
+		{5974949D-FF35-41DB-A322-4B62C615439A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
