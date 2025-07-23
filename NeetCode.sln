@@ -35,6 +35,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "15 - Meeting Rooms", "15 - 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "16 - Number of One Bits", "16 - Number of One Bits\16 - Number of One Bits.vcxproj", "{46B86D11-1FDD-4097-81E3-736DBAD00C82}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "17 - Counting Bits", "17 - Counting Bits\17 - Counting Bits.vcxproj", "{4CE5B4FE-68E5-44D7-8C90-F055D41DB992}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -171,6 +173,14 @@ Global
 		{46B86D11-1FDD-4097-81E3-736DBAD00C82}.Release|x64.Build.0 = Release|x64
 		{46B86D11-1FDD-4097-81E3-736DBAD00C82}.Release|x86.ActiveCfg = Release|Win32
 		{46B86D11-1FDD-4097-81E3-736DBAD00C82}.Release|x86.Build.0 = Release|Win32
+		{4CE5B4FE-68E5-44D7-8C90-F055D41DB992}.Debug|x64.ActiveCfg = Debug|x64
+		{4CE5B4FE-68E5-44D7-8C90-F055D41DB992}.Debug|x64.Build.0 = Debug|x64
+		{4CE5B4FE-68E5-44D7-8C90-F055D41DB992}.Debug|x86.ActiveCfg = Debug|Win32
+		{4CE5B4FE-68E5-44D7-8C90-F055D41DB992}.Debug|x86.Build.0 = Debug|Win32
+		{4CE5B4FE-68E5-44D7-8C90-F055D41DB992}.Release|x64.ActiveCfg = Release|x64
+		{4CE5B4FE-68E5-44D7-8C90-F055D41DB992}.Release|x64.Build.0 = Release|x64
+		{4CE5B4FE-68E5-44D7-8C90-F055D41DB992}.Release|x86.ActiveCfg = Release|Win32
+		{4CE5B4FE-68E5-44D7-8C90-F055D41DB992}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
