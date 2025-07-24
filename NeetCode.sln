@@ -49,6 +49,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "22 - Encode and Decode Stri
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "23 - Products of Array Except Self", "23 - Products of Array Except Self\23 - Products of Array Except Self.vcxproj", "{99878B70-5B28-483A-A7C0-743E113773AD}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "24 - Longest Consecutive Sequence", "24 - Longest Consecutive Sequence\24 - Longest Consecutive Sequence.vcxproj", "{FADC0771-93B6-40FE-A252-2C0DA3AF248F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -241,6 +243,14 @@ Global
 		{99878B70-5B28-483A-A7C0-743E113773AD}.Release|x64.Build.0 = Release|x64
 		{99878B70-5B28-483A-A7C0-743E113773AD}.Release|x86.ActiveCfg = Release|Win32
 		{99878B70-5B28-483A-A7C0-743E113773AD}.Release|x86.Build.0 = Release|Win32
+		{FADC0771-93B6-40FE-A252-2C0DA3AF248F}.Debug|x64.ActiveCfg = Debug|x64
+		{FADC0771-93B6-40FE-A252-2C0DA3AF248F}.Debug|x64.Build.0 = Debug|x64
+		{FADC0771-93B6-40FE-A252-2C0DA3AF248F}.Debug|x86.ActiveCfg = Debug|Win32
+		{FADC0771-93B6-40FE-A252-2C0DA3AF248F}.Debug|x86.Build.0 = Debug|Win32
+		{FADC0771-93B6-40FE-A252-2C0DA3AF248F}.Release|x64.ActiveCfg = Release|x64
+		{FADC0771-93B6-40FE-A252-2C0DA3AF248F}.Release|x64.Build.0 = Release|x64
+		{FADC0771-93B6-40FE-A252-2C0DA3AF248F}.Release|x86.ActiveCfg = Release|Win32
+		{FADC0771-93B6-40FE-A252-2C0DA3AF248F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
