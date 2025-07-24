@@ -47,6 +47,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "21 - Top K Frequent Element
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "22 - Encode and Decode Strings", "22 - Encode and Decode Strings\22 - Encode and Decode Strings.vcxproj", "{1BA9BCA4-1F03-4F13-B4F5-2907C0E71A89}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "23 - Products of Array Except Self", "23 - Products of Array Except Self\23 - Products of Array Except Self.vcxproj", "{99878B70-5B28-483A-A7C0-743E113773AD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -231,6 +233,14 @@ Global
 		{1BA9BCA4-1F03-4F13-B4F5-2907C0E71A89}.Release|x64.Build.0 = Release|x64
 		{1BA9BCA4-1F03-4F13-B4F5-2907C0E71A89}.Release|x86.ActiveCfg = Release|Win32
 		{1BA9BCA4-1F03-4F13-B4F5-2907C0E71A89}.Release|x86.Build.0 = Release|Win32
+		{99878B70-5B28-483A-A7C0-743E113773AD}.Debug|x64.ActiveCfg = Debug|x64
+		{99878B70-5B28-483A-A7C0-743E113773AD}.Debug|x64.Build.0 = Debug|x64
+		{99878B70-5B28-483A-A7C0-743E113773AD}.Debug|x86.ActiveCfg = Debug|Win32
+		{99878B70-5B28-483A-A7C0-743E113773AD}.Debug|x86.Build.0 = Debug|Win32
+		{99878B70-5B28-483A-A7C0-743E113773AD}.Release|x64.ActiveCfg = Release|x64
+		{99878B70-5B28-483A-A7C0-743E113773AD}.Release|x64.Build.0 = Release|x64
+		{99878B70-5B28-483A-A7C0-743E113773AD}.Release|x86.ActiveCfg = Release|Win32
+		{99878B70-5B28-483A-A7C0-743E113773AD}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
