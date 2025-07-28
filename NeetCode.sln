@@ -71,6 +71,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "33 - Lowest Common Ancestor
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "34 - Binary Tree Level Order Traversal", "34 - Binary Tree Level Order Traversal\34 - Binary Tree Level Order Traversal.vcxproj", "{70948AEF-2810-40BC-AC32-738F8F476133}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "35 - Valid Binary Search Tree", "35 - Valid Binary Search Tree\35 - Valid Binary Search Tree.vcxproj", "{978EA6F6-76F6-40E0-B69F-C4C663F51F9B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -351,6 +353,14 @@ Global
 		{70948AEF-2810-40BC-AC32-738F8F476133}.Release|x64.Build.0 = Release|x64
 		{70948AEF-2810-40BC-AC32-738F8F476133}.Release|x86.ActiveCfg = Release|Win32
 		{70948AEF-2810-40BC-AC32-738F8F476133}.Release|x86.Build.0 = Release|Win32
+		{978EA6F6-76F6-40E0-B69F-C4C663F51F9B}.Debug|x64.ActiveCfg = Debug|x64
+		{978EA6F6-76F6-40E0-B69F-C4C663F51F9B}.Debug|x64.Build.0 = Debug|x64
+		{978EA6F6-76F6-40E0-B69F-C4C663F51F9B}.Debug|x86.ActiveCfg = Debug|Win32
+		{978EA6F6-76F6-40E0-B69F-C4C663F51F9B}.Debug|x86.Build.0 = Debug|Win32
+		{978EA6F6-76F6-40E0-B69F-C4C663F51F9B}.Release|x64.ActiveCfg = Release|x64
+		{978EA6F6-76F6-40E0-B69F-C4C663F51F9B}.Release|x64.Build.0 = Release|x64
+		{978EA6F6-76F6-40E0-B69F-C4C663F51F9B}.Release|x86.ActiveCfg = Release|Win32
+		{978EA6F6-76F6-40E0-B69F-C4C663F51F9B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
