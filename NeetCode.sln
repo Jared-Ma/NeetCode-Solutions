@@ -73,6 +73,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "34 - Binary Tree Level Orde
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "35 - Valid Binary Search Tree", "35 - Valid Binary Search Tree\35 - Valid Binary Search Tree.vcxproj", "{978EA6F6-76F6-40E0-B69F-C4C663F51F9B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "36 - Kth Smallest Integer in BST", "36 - Kth Smallest Integer in BST\36 - Kth Smallest Integer in BST.vcxproj", "{3B9A1887-FCDD-4005-BC14-D163E00BC2B0}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "37 - Construct Binary Tree from Preorder and Inorder Traversal", "37 - Construct Binary Tree from Preorder and Inorder Traversal\37 - Construct Binary Tree from Preorder and Inorder Traversal.vcxproj", "{C84CB4A2-50FE-4C94-8791-0FC189D98659}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -361,6 +365,22 @@ Global
 		{978EA6F6-76F6-40E0-B69F-C4C663F51F9B}.Release|x64.Build.0 = Release|x64
 		{978EA6F6-76F6-40E0-B69F-C4C663F51F9B}.Release|x86.ActiveCfg = Release|Win32
 		{978EA6F6-76F6-40E0-B69F-C4C663F51F9B}.Release|x86.Build.0 = Release|Win32
+		{3B9A1887-FCDD-4005-BC14-D163E00BC2B0}.Debug|x64.ActiveCfg = Debug|x64
+		{3B9A1887-FCDD-4005-BC14-D163E00BC2B0}.Debug|x64.Build.0 = Debug|x64
+		{3B9A1887-FCDD-4005-BC14-D163E00BC2B0}.Debug|x86.ActiveCfg = Debug|Win32
+		{3B9A1887-FCDD-4005-BC14-D163E00BC2B0}.Debug|x86.Build.0 = Debug|Win32
+		{3B9A1887-FCDD-4005-BC14-D163E00BC2B0}.Release|x64.ActiveCfg = Release|x64
+		{3B9A1887-FCDD-4005-BC14-D163E00BC2B0}.Release|x64.Build.0 = Release|x64
+		{3B9A1887-FCDD-4005-BC14-D163E00BC2B0}.Release|x86.ActiveCfg = Release|Win32
+		{3B9A1887-FCDD-4005-BC14-D163E00BC2B0}.Release|x86.Build.0 = Release|Win32
+		{C84CB4A2-50FE-4C94-8791-0FC189D98659}.Debug|x64.ActiveCfg = Debug|x64
+		{C84CB4A2-50FE-4C94-8791-0FC189D98659}.Debug|x64.Build.0 = Debug|x64
+		{C84CB4A2-50FE-4C94-8791-0FC189D98659}.Debug|x86.ActiveCfg = Debug|Win32
+		{C84CB4A2-50FE-4C94-8791-0FC189D98659}.Debug|x86.Build.0 = Debug|Win32
+		{C84CB4A2-50FE-4C94-8791-0FC189D98659}.Release|x64.ActiveCfg = Release|x64
+		{C84CB4A2-50FE-4C94-8791-0FC189D98659}.Release|x64.Build.0 = Release|x64
+		{C84CB4A2-50FE-4C94-8791-0FC189D98659}.Release|x86.ActiveCfg = Release|Win32
+		{C84CB4A2-50FE-4C94-8791-0FC189D98659}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
