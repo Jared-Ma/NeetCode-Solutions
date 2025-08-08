@@ -111,6 +111,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "53 - Coin Change", "53 - Co
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "54 - Maximum Product Subarray", "54 - Maximum Product Subarray\54 - Maximum Product Subarray.vcxproj", "{F4B01314-2E38-4DD1-8E38-A7CCC18192DF}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "55 - Word Break", "55 - Word Break\55 - Word Break.vcxproj", "{8490FD38-EDCD-43E9-8F65-AB4A3949DC31}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -551,6 +553,14 @@ Global
 		{F4B01314-2E38-4DD1-8E38-A7CCC18192DF}.Release|x64.Build.0 = Release|x64
 		{F4B01314-2E38-4DD1-8E38-A7CCC18192DF}.Release|x86.ActiveCfg = Release|Win32
 		{F4B01314-2E38-4DD1-8E38-A7CCC18192DF}.Release|x86.Build.0 = Release|Win32
+		{8490FD38-EDCD-43E9-8F65-AB4A3949DC31}.Debug|x64.ActiveCfg = Debug|x64
+		{8490FD38-EDCD-43E9-8F65-AB4A3949DC31}.Debug|x64.Build.0 = Debug|x64
+		{8490FD38-EDCD-43E9-8F65-AB4A3949DC31}.Debug|x86.ActiveCfg = Debug|Win32
+		{8490FD38-EDCD-43E9-8F65-AB4A3949DC31}.Debug|x86.Build.0 = Debug|Win32
+		{8490FD38-EDCD-43E9-8F65-AB4A3949DC31}.Release|x64.ActiveCfg = Release|x64
+		{8490FD38-EDCD-43E9-8F65-AB4A3949DC31}.Release|x64.Build.0 = Release|x64
+		{8490FD38-EDCD-43E9-8F65-AB4A3949DC31}.Release|x86.ActiveCfg = Release|Win32
+		{8490FD38-EDCD-43E9-8F65-AB4A3949DC31}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
