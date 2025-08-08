@@ -113,6 +113,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "54 - Maximum Product Subarr
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "55 - Word Break", "55 - Word Break\55 - Word Break.vcxproj", "{8490FD38-EDCD-43E9-8F65-AB4A3949DC31}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "56 - Longest Increasing Subsequence", "56 - Longest Increasing Subsequence\56 - Longest Increasing Subsequence.vcxproj", "{7D58E92E-D744-435E-A9B2-7FA298B32EBF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -561,6 +563,14 @@ Global
 		{8490FD38-EDCD-43E9-8F65-AB4A3949DC31}.Release|x64.Build.0 = Release|x64
 		{8490FD38-EDCD-43E9-8F65-AB4A3949DC31}.Release|x86.ActiveCfg = Release|Win32
 		{8490FD38-EDCD-43E9-8F65-AB4A3949DC31}.Release|x86.Build.0 = Release|Win32
+		{7D58E92E-D744-435E-A9B2-7FA298B32EBF}.Debug|x64.ActiveCfg = Debug|x64
+		{7D58E92E-D744-435E-A9B2-7FA298B32EBF}.Debug|x64.Build.0 = Debug|x64
+		{7D58E92E-D744-435E-A9B2-7FA298B32EBF}.Debug|x86.ActiveCfg = Debug|Win32
+		{7D58E92E-D744-435E-A9B2-7FA298B32EBF}.Debug|x86.Build.0 = Debug|Win32
+		{7D58E92E-D744-435E-A9B2-7FA298B32EBF}.Release|x64.ActiveCfg = Release|x64
+		{7D58E92E-D744-435E-A9B2-7FA298B32EBF}.Release|x64.Build.0 = Release|x64
+		{7D58E92E-D744-435E-A9B2-7FA298B32EBF}.Release|x86.ActiveCfg = Release|Win32
+		{7D58E92E-D744-435E-A9B2-7FA298B32EBF}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
