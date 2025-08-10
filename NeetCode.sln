@@ -117,6 +117,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "56 - Longest Increasing Sub
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "57 - Unique Paths", "57 - Unique Paths\57 - Unique Paths.vcxproj", "{081FA078-F5E0-4476-9ECF-43CC214F8A52}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "58 - Longest Common Subsequence", "58 - Longest Common Subsequence\58 - Longest Common Subsequence.vcxproj", "{F5CC6889-29B0-4368-A97E-082E6BAE6AF8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -581,6 +583,14 @@ Global
 		{081FA078-F5E0-4476-9ECF-43CC214F8A52}.Release|x64.Build.0 = Release|x64
 		{081FA078-F5E0-4476-9ECF-43CC214F8A52}.Release|x86.ActiveCfg = Release|Win32
 		{081FA078-F5E0-4476-9ECF-43CC214F8A52}.Release|x86.Build.0 = Release|Win32
+		{F5CC6889-29B0-4368-A97E-082E6BAE6AF8}.Debug|x64.ActiveCfg = Debug|x64
+		{F5CC6889-29B0-4368-A97E-082E6BAE6AF8}.Debug|x64.Build.0 = Debug|x64
+		{F5CC6889-29B0-4368-A97E-082E6BAE6AF8}.Debug|x86.ActiveCfg = Debug|Win32
+		{F5CC6889-29B0-4368-A97E-082E6BAE6AF8}.Debug|x86.Build.0 = Debug|Win32
+		{F5CC6889-29B0-4368-A97E-082E6BAE6AF8}.Release|x64.ActiveCfg = Release|x64
+		{F5CC6889-29B0-4368-A97E-082E6BAE6AF8}.Release|x64.Build.0 = Release|x64
+		{F5CC6889-29B0-4368-A97E-082E6BAE6AF8}.Release|x86.ActiveCfg = Release|Win32
+		{F5CC6889-29B0-4368-A97E-082E6BAE6AF8}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
