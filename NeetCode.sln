@@ -121,6 +121,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "58 - Longest Common Subsequ
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "59 - Maximum Subarray", "59 - Maximum Subarray\59 - Maximum Subarray.vcxproj", "{5E7F15E3-E481-46D5-86B7-B654AA8E8B00}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "60 - Jump Game", "60 - Jump Game\60 - Jump Game.vcxproj", "{DA7AEA27-B7EE-4A5A-9220-DC2A1BCED8A2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -601,6 +603,14 @@ Global
 		{5E7F15E3-E481-46D5-86B7-B654AA8E8B00}.Release|x64.Build.0 = Release|x64
 		{5E7F15E3-E481-46D5-86B7-B654AA8E8B00}.Release|x86.ActiveCfg = Release|Win32
 		{5E7F15E3-E481-46D5-86B7-B654AA8E8B00}.Release|x86.Build.0 = Release|Win32
+		{DA7AEA27-B7EE-4A5A-9220-DC2A1BCED8A2}.Debug|x64.ActiveCfg = Debug|x64
+		{DA7AEA27-B7EE-4A5A-9220-DC2A1BCED8A2}.Debug|x64.Build.0 = Debug|x64
+		{DA7AEA27-B7EE-4A5A-9220-DC2A1BCED8A2}.Debug|x86.ActiveCfg = Debug|Win32
+		{DA7AEA27-B7EE-4A5A-9220-DC2A1BCED8A2}.Debug|x86.Build.0 = Debug|Win32
+		{DA7AEA27-B7EE-4A5A-9220-DC2A1BCED8A2}.Release|x64.ActiveCfg = Release|x64
+		{DA7AEA27-B7EE-4A5A-9220-DC2A1BCED8A2}.Release|x64.Build.0 = Release|x64
+		{DA7AEA27-B7EE-4A5A-9220-DC2A1BCED8A2}.Release|x86.ActiveCfg = Release|Win32
+		{DA7AEA27-B7EE-4A5A-9220-DC2A1BCED8A2}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
