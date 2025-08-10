@@ -129,6 +129,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "62 - Merge Intervals", "62 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "63 - Non-Overlapping Intervals", "63 - Non-Overlapping Intervals\63 - Non-Overlapping Intervals.vcxproj", "{8586B1B0-23EF-4FB1-B829-382750C9D79C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "64 - Meeting Rooms II", "64 - Meeting Rooms II\64 - Meeting Rooms II.vcxproj", "{501BE329-F3AC-4E80-B901-499E36079C10}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -641,6 +643,14 @@ Global
 		{8586B1B0-23EF-4FB1-B829-382750C9D79C}.Release|x64.Build.0 = Release|x64
 		{8586B1B0-23EF-4FB1-B829-382750C9D79C}.Release|x86.ActiveCfg = Release|Win32
 		{8586B1B0-23EF-4FB1-B829-382750C9D79C}.Release|x86.Build.0 = Release|Win32
+		{501BE329-F3AC-4E80-B901-499E36079C10}.Debug|x64.ActiveCfg = Debug|x64
+		{501BE329-F3AC-4E80-B901-499E36079C10}.Debug|x64.Build.0 = Debug|x64
+		{501BE329-F3AC-4E80-B901-499E36079C10}.Debug|x86.ActiveCfg = Debug|Win32
+		{501BE329-F3AC-4E80-B901-499E36079C10}.Debug|x86.Build.0 = Debug|Win32
+		{501BE329-F3AC-4E80-B901-499E36079C10}.Release|x64.ActiveCfg = Release|x64
+		{501BE329-F3AC-4E80-B901-499E36079C10}.Release|x64.Build.0 = Release|x64
+		{501BE329-F3AC-4E80-B901-499E36079C10}.Release|x86.ActiveCfg = Release|Win32
+		{501BE329-F3AC-4E80-B901-499E36079C10}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
