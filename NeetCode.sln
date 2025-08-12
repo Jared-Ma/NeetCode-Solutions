@@ -139,6 +139,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "67 - Set Matrix Zeroes", "6
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "68 - Sum of Two Integers", "68 - Sum of Two Integers\68 - Sum of Two Integers.vcxproj", "{5D9106E3-1A0D-4FBF-B597-3DA5B3B70AC0}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "69 - Minimum Window Substring", "69 - Minimum Window Substring\69 - Minimum Window Substring.vcxproj", "{383B8A99-10BF-485B-A6B6-E4B29CEE7B32}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -691,6 +693,14 @@ Global
 		{5D9106E3-1A0D-4FBF-B597-3DA5B3B70AC0}.Release|x64.Build.0 = Release|x64
 		{5D9106E3-1A0D-4FBF-B597-3DA5B3B70AC0}.Release|x86.ActiveCfg = Release|Win32
 		{5D9106E3-1A0D-4FBF-B597-3DA5B3B70AC0}.Release|x86.Build.0 = Release|Win32
+		{383B8A99-10BF-485B-A6B6-E4B29CEE7B32}.Debug|x64.ActiveCfg = Debug|x64
+		{383B8A99-10BF-485B-A6B6-E4B29CEE7B32}.Debug|x64.Build.0 = Debug|x64
+		{383B8A99-10BF-485B-A6B6-E4B29CEE7B32}.Debug|x86.ActiveCfg = Debug|Win32
+		{383B8A99-10BF-485B-A6B6-E4B29CEE7B32}.Debug|x86.Build.0 = Debug|Win32
+		{383B8A99-10BF-485B-A6B6-E4B29CEE7B32}.Release|x64.ActiveCfg = Release|x64
+		{383B8A99-10BF-485B-A6B6-E4B29CEE7B32}.Release|x64.Build.0 = Release|x64
+		{383B8A99-10BF-485B-A6B6-E4B29CEE7B32}.Release|x86.ActiveCfg = Release|Win32
+		{383B8A99-10BF-485B-A6B6-E4B29CEE7B32}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
