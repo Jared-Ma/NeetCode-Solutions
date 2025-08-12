@@ -141,6 +141,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "68 - Sum of Two Integers", 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "69 - Minimum Window Substring", "69 - Minimum Window Substring\69 - Minimum Window Substring.vcxproj", "{383B8A99-10BF-485B-A6B6-E4B29CEE7B32}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "70 - Merge K Sorted Linked Lists", "70 - Merge K Sorted Linked Lists\70 - Merge K Sorted Linked Lists.vcxproj", "{3704FFBA-5E2D-4823-B7AB-99C9FF52AB49}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -701,6 +703,14 @@ Global
 		{383B8A99-10BF-485B-A6B6-E4B29CEE7B32}.Release|x64.Build.0 = Release|x64
 		{383B8A99-10BF-485B-A6B6-E4B29CEE7B32}.Release|x86.ActiveCfg = Release|Win32
 		{383B8A99-10BF-485B-A6B6-E4B29CEE7B32}.Release|x86.Build.0 = Release|Win32
+		{3704FFBA-5E2D-4823-B7AB-99C9FF52AB49}.Debug|x64.ActiveCfg = Debug|x64
+		{3704FFBA-5E2D-4823-B7AB-99C9FF52AB49}.Debug|x64.Build.0 = Debug|x64
+		{3704FFBA-5E2D-4823-B7AB-99C9FF52AB49}.Debug|x86.ActiveCfg = Debug|Win32
+		{3704FFBA-5E2D-4823-B7AB-99C9FF52AB49}.Debug|x86.Build.0 = Debug|Win32
+		{3704FFBA-5E2D-4823-B7AB-99C9FF52AB49}.Release|x64.ActiveCfg = Release|x64
+		{3704FFBA-5E2D-4823-B7AB-99C9FF52AB49}.Release|x64.Build.0 = Release|x64
+		{3704FFBA-5E2D-4823-B7AB-99C9FF52AB49}.Release|x86.ActiveCfg = Release|Win32
+		{3704FFBA-5E2D-4823-B7AB-99C9FF52AB49}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
