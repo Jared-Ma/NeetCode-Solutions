@@ -147,6 +147,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "71 - Binary Tree Maximum Pa
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "72 - Serialize and Deserialize Binary Tree", "72 - Serialize and Deserialize Binary Tree\72 - Serialize and Deserialize Binary Tree.vcxproj", "{AD6C6ABC-2A72-42AC-94D0-604A52673885}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "73 - Find Median From Data Stream", "73 - Find Median From Data Stream\73 - Find Median From Data Stream.vcxproj", "{6A9034EF-4B15-4DA7-8197-B16B1495573F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -731,6 +733,14 @@ Global
 		{AD6C6ABC-2A72-42AC-94D0-604A52673885}.Release|x64.Build.0 = Release|x64
 		{AD6C6ABC-2A72-42AC-94D0-604A52673885}.Release|x86.ActiveCfg = Release|Win32
 		{AD6C6ABC-2A72-42AC-94D0-604A52673885}.Release|x86.Build.0 = Release|Win32
+		{6A9034EF-4B15-4DA7-8197-B16B1495573F}.Debug|x64.ActiveCfg = Debug|x64
+		{6A9034EF-4B15-4DA7-8197-B16B1495573F}.Debug|x64.Build.0 = Debug|x64
+		{6A9034EF-4B15-4DA7-8197-B16B1495573F}.Debug|x86.ActiveCfg = Debug|Win32
+		{6A9034EF-4B15-4DA7-8197-B16B1495573F}.Debug|x86.Build.0 = Debug|Win32
+		{6A9034EF-4B15-4DA7-8197-B16B1495573F}.Release|x64.ActiveCfg = Release|x64
+		{6A9034EF-4B15-4DA7-8197-B16B1495573F}.Release|x64.Build.0 = Release|x64
+		{6A9034EF-4B15-4DA7-8197-B16B1495573F}.Release|x86.ActiveCfg = Release|Win32
+		{6A9034EF-4B15-4DA7-8197-B16B1495573F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
