@@ -165,6 +165,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "80 - Course Schedule II", "
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "81 - Redundant Connection", "81 - Redundant Connection\81 - Redundant Connection.vcxproj", "{9A06F49F-0D40-4477-80DA-78CE07476240}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "82 - Network Delay Time", "82 - Network Delay Time\82 - Network Delay Time.vcxproj", "{D15CD42F-BB47-4B34-9E32-F9FCCD36460F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -821,6 +823,14 @@ Global
 		{9A06F49F-0D40-4477-80DA-78CE07476240}.Release|x64.Build.0 = Release|x64
 		{9A06F49F-0D40-4477-80DA-78CE07476240}.Release|x86.ActiveCfg = Release|Win32
 		{9A06F49F-0D40-4477-80DA-78CE07476240}.Release|x86.Build.0 = Release|Win32
+		{D15CD42F-BB47-4B34-9E32-F9FCCD36460F}.Debug|x64.ActiveCfg = Debug|x64
+		{D15CD42F-BB47-4B34-9E32-F9FCCD36460F}.Debug|x64.Build.0 = Debug|x64
+		{D15CD42F-BB47-4B34-9E32-F9FCCD36460F}.Debug|x86.ActiveCfg = Debug|Win32
+		{D15CD42F-BB47-4B34-9E32-F9FCCD36460F}.Debug|x86.Build.0 = Debug|Win32
+		{D15CD42F-BB47-4B34-9E32-F9FCCD36460F}.Release|x64.ActiveCfg = Release|x64
+		{D15CD42F-BB47-4B34-9E32-F9FCCD36460F}.Release|x64.Build.0 = Release|x64
+		{D15CD42F-BB47-4B34-9E32-F9FCCD36460F}.Release|x86.ActiveCfg = Release|Win32
+		{D15CD42F-BB47-4B34-9E32-F9FCCD36460F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
